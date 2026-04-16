@@ -87,12 +87,27 @@ Full-Stack Developer from Vietnam, studying at **RMIT Vietnam**. I build product
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devadavidd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devadavidd&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devadavidd&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devadavidd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" />
-</p>
+
+### Languages Across All Repositories
+
+```text
+TypeScript   ████████████████████████████████████░░░░░   54.67%
+Java         ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   14.67%
+JavaScript   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.33%
+Swift        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4.00%
+Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4.00%
+HTML         ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.67%
+HCL          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
+Shell        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
+Dockerfile   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
+CSS          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
+C            █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
+```
+
+> *Based on 75+ repositories across 10 organizations (including private repos)*
 
 ---
 
