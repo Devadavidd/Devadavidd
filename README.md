@@ -87,27 +87,38 @@ Full-Stack Developer from Vietnam, studying at **RMIT Vietnam**. I build product
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devadavidd&theme=tokyonight&hide_border=true&background=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devadavidd&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devadavidd&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
-### Languages Across All Repositories
+### Languages Across 75+ Repositories
 
-```text
-TypeScript   ████████████████████████████████████░░░░░   54.67%
-Java         ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   14.67%
-JavaScript   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    5.33%
-Swift        ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4.00%
-Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4.00%
-HTML         ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.67%
-HCL          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
-Shell        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
-Dockerfile   █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
-CSS          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
-C            █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.33%
-```
+<table>
+<tr><td>
 
-> *Based on 75+ repositories across 10 organizations (including private repos)*
+| Language | Usage |
+|----------|-------|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-54.67%25-3178C6?style=flat-square&logo=typescript&logoColor=white) | ██████████████████████ |
+| ![Java](https://img.shields.io/badge/Java-14.67%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ██████ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-5.33%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ██ |
+| ![Swift](https://img.shields.io/badge/Swift-4.00%25-FA7343?style=flat-square&logo=swift&logoColor=white) | ██ |
+| ![Python](https://img.shields.io/badge/Python-4.00%25-3776AB?style=flat-square&logo=python&logoColor=white) | ██ |
+| ![C](https://img.shields.io/badge/C-1.33%25-A8B9CC?style=flat-square&logo=c&logoColor=black) | █ |
+
+</td><td>
+
+| Metric | Count |
+|--------|-------|
+| 📦 **Repositories** | **75+** |
+| 🏢 **Organizations** | **10** |
+| 🌐 **Public Repos** | **5** |
+| ⭐ **Stars Earned** | **545+** |
+| 🔀 **Pull Requests** | **Pull Shark x3** |
+| 📅 **Active Since** | **Nov 2021** |
+
+</td></tr>
+</table>
+
+<p align="center"><sub>Stats include private & organization repositories</sub></p>
 
 ---
 
