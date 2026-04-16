@@ -11,7 +11,7 @@ Full-Stack Developer from Vietnam, studying at **RMIT Vietnam**. I build product
 - 🔭 Currently working on **IoT monitoring systems** and **AI-powered products**
 - 🌱 Passionate about **industrial protocols** (MQTT, OPC UA, BACnet) and **distributed systems**
 - 💼 Founder at **[@daian-it](https://github.com/daian-it)**
-- 📫 Reach me at **support@daianit.com**
+- 📫 Reach me at **tuongkhangnguyen03@gmail.com**
 
 ---
 
@@ -111,7 +111,7 @@ Full-Stack Developer from Vietnam, studying at **RMIT Vietnam**. I build product
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-support%40daianit.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@daianit.com)
+[![Email](https://img.shields.io/badge/Email-tuongkhangnguyen03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuongkhangnguyen03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Devadavidd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devadavidd)
 
 ---
