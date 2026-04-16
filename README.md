@@ -109,16 +109,6 @@ Full-Stack Developer from Vietnam, studying at **RMIT Vietnam**. I build product
 
 ---
 
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devadavidd/Devadavidd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devadavidd/Devadavidd/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Devadavidd/Devadavidd/output/github-snake-dark.svg" />
-</picture>
-
----
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-support%40daianit.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@daianit.com)
